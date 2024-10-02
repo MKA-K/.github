@@ -1,1 +1,1 @@
-# .github
+Proje için git Konfigürasyon verileri
