@@ -24,11 +24,10 @@ Projemize katkıda bulunmak isteyenler, [katkı rehberimize](CONTRIBUTING.md) g�
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ## İletişim
-Proje ile ilgili sorularınız veya önerileriniz için [email@example.com](mailto:email@example.com) adresi üzerinden bizimle iletişime geçebilirsiniz.
+Proje ile ilgili sorularınız veya önerileriniz için [egekilic@proton.me](mailto:egekilic@proton.me) adresi üzerinden bizimle iletişime geçebilirsiniz.
 
 ---
 
 **Geliştirme Takımı:**  
 - [Mustafa Ege KILIÇ](https://github.com/the-abra) - Proje Yöneticisi  
-- Diğer Ekip Üyeleri
 
