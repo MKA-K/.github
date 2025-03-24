@@ -9,7 +9,7 @@
 Lütfen katkıda bulunmadan önce aşağıdaki adımları takip edin:  
 
 1. **Mevcut Konuları İnceleyin**  
-   - [GitHub Issues](https://github.com/MKA-K/issues) sekmesinden açık konuları inceleyin.  
+   - [GitHub Issues](https://github.com/orgs/MKA-K/discussions) sekmesinden açık konuları inceleyin.  
    - Çözmek istediğiniz bir konu varsa, yorum yaparak veya yeni bir konu açarak katkınızı belirtin.  
 
 2. **Kod Standartlarını İnceleyin**  
