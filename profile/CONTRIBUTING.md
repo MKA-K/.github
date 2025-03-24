@@ -9,7 +9,7 @@
 Lütfen katkıda bulunmadan önce aşağıdaki adımları takip edin:  
 
 1. **Mevcut Konuları İnceleyin**  
-   - [GitHub Issues](https://github.com/orgs/MKA-K/discussions) sekmesinden açık konuları inceleyin.  
+   - [GitHub Discussions](https://github.com/orgs/MKA-K/discussions) sekmesinden açık konuları inceleyin.  
    - Çözmek istediğiniz bir konu varsa, yorum yaparak veya yeni bir konu açarak katkınızı belirtin.  
 
 2. **Kod Standartlarını İnceleyin**  
@@ -24,7 +24,7 @@ Lütfen katkıda bulunmadan önce aşağıdaki adımları takip edin:
 ## 🚀 Nasıl Katkıda Bulunabilirsiniz?  
 
 ### 🛠️ Hata Bildirimi (Bug Report)  
-- Bir hata bulduysanız, [GitHub Issues](https://github.com/MKA-K/issues) sekmesinden yeni bir hata bildirimi oluşturabilirsiniz.  
+- Bir hata bulduysanız, ilgili deponun **Issues** sekmesinden yeni bir hata bildirimi oluşturabilirsiniz.  
 - Hata raporunuzda şu bilgileri eklemelisiniz:  
   - Hatanın açık bir tanımı  
   - Tekrar üretme adımları  
@@ -49,8 +49,8 @@ Kod katkısı yapmak için aşağıdaki adımları takip edebilirsiniz:
    - Değişikliklerinizi yaptıktan sonra testlerinizi çalıştırın.  
 
 3. **Kod Standartlarına Uygunluğu Kontrol Edin**  
-   - **Python** için `flake8` ve `black` kullanabilirsiniz.  
-   - **C++** kodları için `clang-format` kullanabilirsiniz.  
+   - **Go** için `golangci-lint` ve `gofmt` kullanabilirsiniz.  
+   - **Rust** için `rustfmt` ve `clippy` kullanabilirsiniz.
 
 4. **Commit Mesajı Yazımı**  
    - Açık ve anlaşılır commit mesajları kullanın.  
@@ -60,7 +60,7 @@ Kod katkısı yapmak için aşağıdaki adımları takip edebilirsiniz:
      ```
      
 5. **Pull Request (PR) Gönderme**  
-   - Değişikliklerinizi kendi **Fork** deposuna gönderin:  
+   - Değişikliklerinizi kendi **Fork** deponuza gönderin:  
      ```sh
      git push origin feature-branch
      ```  
