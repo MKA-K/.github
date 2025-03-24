@@ -14,9 +14,45 @@ Dayanıklı Rover Projesi, ekstrem çevre koşullarında çalışabilen, modüle
 - **Keşif:** Ulaşılması güç alanlarda bilgi toplama.
 - **Afet Yönetimi:** Afet sonrası durum değerlendirmesi ve arama kurtarma faaliyetleri.
 
-## Proje Yönetimi
-Proje, etkin bir yönetim süreci ile yürütülecek. Aşamaların takibi, maliyet analizleri ve risk değerlendirmeleri düzenli olarak yapılacaktır.
+## Proje Yönetimi Süreci
 
+Bu proje, savunma sanayine yönelik mekatronik ve yazılım bileşenlerini içeren entegre bir sistem geliştirmeyi amaçlamaktadır. Proje yönetim süreci, **PMBOK (Project Management Body of Knowledge)** ve **Agile metodolojileri** çerçevesinde yürütülecek olup, aşağıdaki aşamaları içermektedir:
+
+**1. Başlatma**
+
+- Proje kapsamının belirlenmesi
+- Paydaş analizi ve gereksinimlerin toplanması
+- Proje fizibilitesinin değerlendirilmesi
+- Kaynak planlaması ve ön bütçelendirme
+   
+**2. Planlama**
+
+- Detaylı iş kırılım yapısının (WBS) oluşturulması
+- Zaman çizelgesinin hazırlanması (Gantt Chart)
+- Risk analizlerinin gerçekleştirilmesi
+- Tedarik ve insan kaynakları planlaması
+- Entegre mekatronik-yazılım geliştirme sürecinin tanımlanması
+
+**3. Yürütme**
+
+- Sistem tasarımı ve prototipleme
+- Yazılım ve donanım entegrasyonu
+- Test ve doğrulama süreçlerinin başlatılması
+- Paydaşlarla ara değerlendirme toplantıları
+
+**4. İzleme ve Kontrol**
+
+- Proje performans göstergelerinin takibi
+- Risk ve değişiklik yönetimi süreçleri
+- Kalite güvence testleri ve hata yönetimi
+- Savunma sanayii standartlarına uygunluk denetimi
+   
+**5. Kapanış**
+
+- Nihai testler ve sertifikasyon süreçleri
+- Kullanıcı eğitimleri ve dokümantasyon teslimi
+- Proje sonrası değerlendirme ve iyileştirme analizi
+   
 ## Katkı Sağlama
 Projemize katkıda bulunmak isteyenler, [katkı rehberimize](CONTRIBUTING.md) göz atabilirler. Her türlü öneri ve geri bildirim için iletişime geçmekten çekinmeyin.
 
